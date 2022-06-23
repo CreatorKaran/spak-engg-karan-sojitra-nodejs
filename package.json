@@ -28,12 +28,10 @@
     "md5": "^2.3.0",
     "moment": "^2.29.1",
     "mongodb": "^3.6.6",
+    "nodemon": "^2.0.16",
     "vision": "^5.4.4",
     "winston": "^3.2.1"
   },
   "author": "Karan Sojitra",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.16"
-  }
+  "license": "ISC"
 }
